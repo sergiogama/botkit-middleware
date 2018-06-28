@@ -9,12 +9,12 @@ This document describes how to set up a sample Express app which talks to Slack,
 Edit the .env file by updating the Watson Assistant USERNAME, PASSWORD and WORKSPACE ID.
 
 Still in the .env file, specify the Facebook related variables FB_ACCESS_TOKEN, FB_VERIFY_TOKEN, FB_APP_SECRET and USE_FACEBOOK.
-
+```
 FB_ACCESS_TOKEN=<token you had generated in the token generation step>
 FB_VERIFY_TOKEN=<random token that you can generate>
 FB_APP_SECRET=<secret key which Facebook provides available in the facebook developer dashboard>
 USE_FACEBOOK=true
-    
+```    
 Deploy it!
 
 ## Install local:
