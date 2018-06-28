@@ -2,6 +2,11 @@
 
 This document describes how to set up a sample Express app which talks to Slack, Facebook, and Twilio bots.
 
+## Install to IBM Cloud:
+
+[![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/sergiogama/botkit-middleware/edit/master/examples/multi-bot)
+
+## Install local:
 ## Install all dependencies:
 
     ```
